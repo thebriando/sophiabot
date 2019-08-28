@@ -13,7 +13,18 @@ const responses = [
   "Bad Boy Brian!",
   "Let me just delete the tests that don't pass",
   "I live in a dump",
-  "i cAn't ttypee"
+  "i cAn't ttYpeE",
+  "Blueface baby",
+  "Don't touch my pocket",
+  "Grain",
+  "I need to save",
+  "Everything is on fire",
+  "No",
+  "Mozzarella",
+  "I don't have a Discord",
+  "I'm not going to join Discord",
+  "Ich bin Sophia",
+  "I don't think I like that"
 ];
 client.on("message", msg => {
   if (
