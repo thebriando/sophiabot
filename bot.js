@@ -24,7 +24,9 @@ const responses = [
   "I don't have a Discord",
   "I'm not going to join Discord",
   "Ich bin Sophia",
-  "I don't think I like that"
+  "I don't think I like that",
+  "No thanks, I brought a salad",
+  "Cheese whizz is disgusting"
 ];
 client.on("message", msg => {
   if (
