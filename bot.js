@@ -26,7 +26,9 @@ const responses = [
   "Ich bin Sophia",
   "I don't think I like that",
   "No thanks, I brought a salad",
-  "Cheese whizz is disgusting"
+  "Cheese whizz is disgusting",
+  "Wait this isn't my cup!",
+  "I smell brie cheese"
 ];
 client.on("message", msg => {
   if (
